@@ -17,6 +17,11 @@
 - [financial](./financial/financial.md)
 
 
+## 系列视频教程,不定期更新.
+
+- [滚球系列教程之基础一](https://www.youtube.com/watch?v=3ClN1HqqNYg)
+- [大小球开盘依据分析]()
+
 ## Ⅲ:All of my original article, any organization or individual cannot reprint, the offenders shall be investigated for legal responsibility,The late if the ball you have any questions, can contact in the following way<br/>`dragonli_52171@163.com` 
  
 
