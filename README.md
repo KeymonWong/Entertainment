@@ -1,4 +1,4 @@
-# FootballGames practice balls(滚球实践记录)
+# FootballGames practice balls
 
 ## Ⅰ:中文
 - [半场大小球滚球总结文章和实弹](./2016-10And11HalfGoal/Summary_of_halfSizeBall_traditional-2016.md)
@@ -17,10 +17,19 @@
 - [financial](./financial/financial.md)
 
 
-## 系列视频教程,不定期更新.
-
 - [滚球系列教程之基础一](https://www.youtube.com/watch?v=3ClN1HqqNYg)
-- [大小球开盘依据分析]()
+	- 基本认知
+	- 玩法介绍
+
+- [大小球部分待完善视频]()
+	- 大小球初盘认知
+	- 大小球开盘基础
+	- 大小球开盘思维分析
+	- 模拟庄家开盘实践
+	- 赛事实践剖析
+
+
+
 
 ## Ⅲ:All of my original article, any organization or individual cannot reprint, the offenders shall be investigated for legal responsibility,The late if the ball you have any questions, can contact in the following way<br/>`dragonli_52171@163.com` 
  
