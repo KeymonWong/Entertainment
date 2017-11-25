@@ -11,7 +11,8 @@
 - [**滚球系列教程之基础一**](https://www.youtube.com/watch?v=3ClN1HqqNYg)
 
 - [**大小球盘- 基础**](https://youtu.be/NCEgD1sZ2lI)
--  [滚球基础补充](https://youtu.be/CB3bgijYBdI)
+
+- [**滚球基础补充**](https://youtu.be/CB3bgijYBdI)
 
 
 ### 滚球系列教程之基础一
@@ -45,12 +46,12 @@
 
 - **[Example Match](http://live.titan007.com/detail/1406348sb.htm)**
 
-#### 让球和被让球
+##### 让球和被让球
 
 - 让球一方，为上盘 (走地数据中盘口前有*)
 - 被让球一方，称为下盘 
 
-#### 亚盘水位
+##### 亚盘水位
 
 - 低水区间：0.85以下
 	- 超低水：0.75以下
@@ -65,12 +66,13 @@
 	- 高水：1.00-1.08
 	- 超高水：1.08以上
 
-#### 滚球大小球水位再次讲解
+##### 滚球大小球水位再次讲解
 
 
-## <a name="pages"></a> 系列文章
+##  <a name="pages"></a> 系列文章
 
-### English
+
+###  English
 
 - [SummaryofhalfSizeBallTraditionalAndtheRecords](./2016-10And11HalfGoal/Summary_of_halfSizeBall_traditional-2016.md)
 
@@ -78,7 +80,7 @@
 
 - [financial](./financial/financial.md)
 
-### 中文
+###  中文
 - [半场大小球滚球总结文章和实弹](./2016-10And11HalfGoal/Summary_of_halfSizeBall_traditional-2016.md)
 
 - [高水和低水买入的抉择和总结](./2016-11high_water_and_low_water/choice_of_high_water_and_low_water.md)
