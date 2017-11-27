@@ -6,12 +6,12 @@
 
 ## <a name="blow"></a> 滚球系列视频教程
 
-	以下链接视频均YouTube,不能访问的需要自己f_q.
+	以下链接视频均YouTube,不能访问的需要自己fq.
 
 - [**滚球系列教程之基础一**](https://www.youtube.com/watch?v=3ClN1HqqNYg)
 
 - [**大小球盘- 基础**](https://youtu.be/NCEgD1sZ2lI)
--  [滚球基础补充](https://youtu.be/CB3bgijYBdI)
+-  [**滚球基础补充**](https://youtu.be/STCq15oqgcw)
 
 
 ### 滚球系列教程之基础一
@@ -19,7 +19,7 @@
 - 基本认知
 - 玩法介绍
 
-### [**大小球盘- 基础**](https://youtu.be/NCEgD1sZ2lI)
+### 大小球盘 - 基础
 
 - 大小球初盘认知
 	
