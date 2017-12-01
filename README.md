@@ -1,7 +1,11 @@
 # FootballGames practice balls
 
 *   **[滚球系列视频教程](#blow)**
+
 *   **[系列文章](#pages)**
+
+*   **[高水绝杀进球概述版本](./2017/HighReturns_kills_Goal.md)**
+
 
 
 ## <a name="blow"></a> 滚球系列视频教程
@@ -80,6 +84,8 @@
 - [choiceof**highwater**or**low_water**](./2016-11high_water_and_low_water/choice_of_high_water_and_low_water.md)
 
 - [financial](./financial/financial.md)
+- [HighReturns_kills_Goal](./2017/HighReturns_kills_Goal.md)
+
 
 ###  中文
 - [半场大小球滚球总结文章和实弹](./2016-10And11HalfGoal/Summary_of_halfSizeBall_traditional-2016.md)
@@ -88,7 +94,7 @@
 
 - [金融](./financial/financial.md)
 
-
+- [高水绝杀进球概述版本](./2017/HighReturns_kills_Goal.md)
 
 ## All of my original article, any organization or individual cannot reprint, the offenders shall be investigated for legal responsibility,The late if the ball you have any questions, can contact in the following way<br/>`dragonli_52171@163.com` 
  
