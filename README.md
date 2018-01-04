@@ -2,11 +2,11 @@
 
 *   **[滚球系列视频教程](#blow)**
 
-*   **[系列文章](#pages)**
+*   **[早期系列文章](#pages)**
 
 *   **[高水绝杀进球概述版本](./2017/HighReturns_kills_Goal.md)**
 *   **[弱队赢球概率和总进球的关系](./2017/弱队赢球概率和总进球的关系.md)**
-
+*   **[base_Predict_Rules](./2018/base_Predict_Rules.md)**
 
 ## <a name="blow"></a> 滚球系列视频教程
 
