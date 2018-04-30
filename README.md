@@ -7,7 +7,7 @@
 *   **[高水绝杀进球概述版本](./2017/HighReturns_kills_Goal.md)**
 *   **[弱队赢球概率和总进球的关系](./2017/弱队赢球概率和总进球的关系.md)**
 *   **[base_Predict_Rules](./2018/base_Predict_Rules.md)**
-
+* **[BlowsGuide](./2018/BlowsGuide.md)**
 ## <a name="blow"></a> 滚球直播 Twitch 地址
 
 - [Twitch地址](https://www.twitch.tv/dragonli_6/)
