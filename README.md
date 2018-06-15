@@ -8,9 +8,13 @@
 *   **[弱队赢球概率和总进球的关系](./2017/弱队赢球概率和总进球的关系.md)**
 *   **[base_Predict_Rules](./2018/base_Predict_Rules.md)**
 * **[BlowsGuide](./2018/BlowsGuide.md)**
-## <a name="blow"></a> 滚球直播 Twitch 地址
+* 
+##  2018 世界杯 
 
-- [Twitch地址](https://www.twitch.tv/dragonli_6/)
+#### 2018 - 06 -15 赛事推介
+- 西班牙客场豪情万丈,(西班牙胜)
+- 摩洛哥主场深陷泥潭,(伊朗胜平)
+
 
 
 ## <a name="blow"></a> 滚球系列视频教程
